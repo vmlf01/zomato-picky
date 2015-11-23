@@ -9,4 +9,4 @@ If you're like me, that conversation usually goes like:
 - What do you feel like eating?
 - Huh...
 
-However, if I look at some food photos I can pick out what I like. So the idea is to show photos until we can make an informed recommendation for a great place to eat!
+However, if I look at some food photos I can pick out what I like. So the idea is to keep picking from a set of pictures until we can make an informed recommendation for a great place to eat!
