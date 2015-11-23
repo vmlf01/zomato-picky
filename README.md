@@ -10,3 +10,6 @@ If you're like me, that conversation usually goes like:
 - Huh...
 
 However, if I look at some food photos I can pick out what I like. So the idea is to keep picking from a set of pictures until we can make an informed recommendation for a great place to eat!
+
+
+![alt Picture of the day](design/zomato-hackaton-2015-11-22.jpg)
